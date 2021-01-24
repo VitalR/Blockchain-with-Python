@@ -12,4 +12,4 @@ Jinja2==2.11.2\
 MarkupSafe==1.1.1\
 requests==2.25.1\
 urllib3==1.26.2\
-Werkzeug==1.0.1\
+Werkzeug==1.0.1
